@@ -1,1 +1,1 @@
-# smenabotss14
+# Hi this is public repository for bot for ss14 ** project
